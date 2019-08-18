@@ -6,8 +6,8 @@ node_modules
 # misc
 .DS_Store
 stats.*
-.env
+server/.env
 npm-debug.log
-.idea
+.idea/
 *.sw*
 yarn-error.log
